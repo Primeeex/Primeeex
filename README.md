@@ -3,7 +3,7 @@ $ whoami
 Prime
 
 $ cat about.txt
-Full-stack developer building Discord bots, web apps, admin tooling,
+Full-stack vibe coder building Discord bots, web apps, admin tooling,
 and Minecraft server plugins. Most of what I ship stays in production.
 
 $ pwd
